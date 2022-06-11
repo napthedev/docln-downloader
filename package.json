@@ -1,0 +1,24 @@
+{
+  "name": "docln-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "napthedev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "html-pdf": "^3.0.1",
+    "inquirer": "^8.2.4",
+    "node-html-parser": "^5.3.3",
+    "ora": "^6.1.0",
+    "sanitize-html": "^2.7.0",
+    "sharp": "^0.30.6",
+    "which": "^2.0.2"
+  }
+}
